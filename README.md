@@ -8,6 +8,12 @@ O Git é um sistema de controle de versão distribuído, ele foi criado para ver
 
 O GIT funciona em um esquema de linha do tempo, onde se tem uma linha do tempo principal, a partir desta linha do tempo pode ser criado outras linhas que são os ramos
 
+# GIT – comandos básicos
+
+O Git é um sistema de controle de versão distribuído, ele foi criado para verificar alterações no código fonte, no processo de desenvolvimento de software.
+
+O GIT funciona em um esquema de linha do tempo, onde se tem uma linha do tempo principal, a partir desta linha do tempo pode ser criado outras linhas que são os ramos
+
 #### Configuração Git Bashe Here
 
 
