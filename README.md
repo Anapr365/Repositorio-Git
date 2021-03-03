@@ -101,7 +101,8 @@ git clone https://github.com/Anapr365
 #### Verificar estado dos arquivos:
 
 
-
+## Licença
+[MIT] (LICENÇA).
 
 
 
