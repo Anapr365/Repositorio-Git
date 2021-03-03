@@ -49,6 +49,9 @@ git log
 git log -p -2
 
 
+git clone https://github.com/Anapr365
+#### Verificar estado dos arquivos:
+
 ### O que é o PowerShell
 ![PowerShell](https://github.com/Anapr365/primeiro-repositorio-Git/blob/main/imagens/powershell.PNG)
 
@@ -63,19 +66,3 @@ O Github tem sim muita relação com o Git. GitHub é uma plataforma para gerenc
 O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais. Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e você pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções.
 
 
-## COMANDOS GIT
-
-#### Criar novo repositório:
-git init
-#### Clonar um repositório:
-git clone https://github.com/Anapr365
-#### Verificar estado dos arquivos:
-git status
-#### Adicionar arquivo/diretório (staged area):
-git add meu_arquivo.txt
-#### Comitar um arquivo:
-git commit meu_arquivo.txt
-#### Remover arquivo:
-git rm meu_arquivo.txt
-#### Exibir histórico:
-git log
